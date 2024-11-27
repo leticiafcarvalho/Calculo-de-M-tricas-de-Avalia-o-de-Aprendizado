@@ -1,3 +1,4 @@
+Claro! Aqui está um modelo de **README.md** para o seu projeto, incluindo explicações sobre as funcionalidades e como usar o código:
 
 ```markdown
 # Projeto de Avaliação de Desempenho de Modelos de Classificação
@@ -69,34 +70,26 @@ F-Score: 0.8696
 
 Além disso, gerará o gráfico da Curva ROC com a área sob a curva **AUC**.
 
-## Fórmulas das Métricas
+   ```markdown
+   ## Fórmulas das Métricas
 
-As fórmulas utilizadas para calcular as métricas de avaliação são as seguintes:
+   As fórmulas utilizadas para calcular as métricas de avaliação são as seguintes:
 
-- **Acurácia**:  
-  \[
-  \text{Acurácia} = \frac{VP + VN}{VP + VN + FP + FN}
-  \]
+   - **Acurácia**:  
+     `Acurácia = (VP + VN) / (VP + VN + FP + FN)`
 
-- **Sensibilidade (Recall)**:  
-  \[
-  \text{Sensibilidade} = \frac{VP}{VP + FN}
-  \]
+   - **Sensibilidade (Recall)**:  
+     `Sensibilidade = VP / (VP + FN)`
 
-- **Especificidade**:  
-  \[
-  \text{Especificidade} = \frac{VN}{VN + FP}
-  \]
+   - **Especificidade**:  
+     `Especificidade = VN / (VN + FP)`
 
-- **Precisão**:  
-  \[
-  \text{Precisão} = \frac{VP}{VP + FP}
-  \]
+   - **Precisão**:  
+     `Precisão = VP / (VP + FP)`
 
-- **F-Score**:  
-  \[
-  \text{F-Score} = \frac{2 \times \text{Precisão} \times \text{Sensibilidade}}{\text{Precisão} + \text{Sensibilidade}}
-  \]
+   - **F-Score**:  
+     `F-Score = 2 × (Precisão × Sensibilidade) / (Precisão + Sensibilidade)`
+   ```
 
 Onde:
 - **VP**: Verdadeiros Positivos

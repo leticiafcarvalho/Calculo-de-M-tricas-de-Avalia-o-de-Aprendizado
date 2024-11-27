@@ -1,5 +1,3 @@
-Claro! Aqui está um modelo de **README.md** para o seu projeto, incluindo explicações sobre as funcionalidades e como usar o código:
-
 ```markdown
 # Projeto de Avaliação de Desempenho de Modelos de Classificação
 
@@ -100,11 +98,3 @@ Onde:
 ## Contribuições
 
 Se você quiser contribuir para este projeto, fique à vontade para abrir uma *issue* ou enviar um *pull request*. Agradecemos qualquer contribuição!
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Espero que esse **README.md** atenda às suas necessidades! Ele cobre os detalhes do projeto, como usá-lo, os requisitos e a explicação das métricas. Se precisar de mais ajustes, estarei à disposição!

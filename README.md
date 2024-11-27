@@ -1,7 +1,9 @@
 ```markdown
 # Projeto de Avaliação de Desempenho de Modelos de Classificação
 
-Este projeto tem como objetivo calcular as principais métricas para avaliação de modelos de classificação de dados. As métricas incluem Acurácia, Sensibilidade (Recall), Especificidade, Precisão e F-Score. Além disso, também é gerada a Curva ROC (Receiver Operating Characteristic) com a área sob a curva (AUC) para avaliar o desempenho do modelo.
+Este projeto tem como objetivo calcular as principais métricas para avaliação de modelos de classificação de dados.
+As métricas incluem Acurácia, Sensibilidade (Recall), Especificidade, Precisão e F-Score.
+Além disso, também é gerada a Curva ROC (Receiver Operating Characteristic) com a área sob a curva (AUC) para avaliar o desempenho do modelo.
 
 ## Funcionalidades
 
@@ -14,7 +16,8 @@ Este projeto tem como objetivo calcular as principais métricas para avaliação
   - **F-Score**
 
 - **Curva ROC**:
-  O código gera a **Curva ROC** (Receiver Operating Characteristic) e calcula a área sob a curva (**AUC**). Essa curva é útil para avaliar a capacidade de classificação binária do modelo, indicando o quão bem o modelo separa as classes.
+  O código gera a **Curva ROC** (Receiver Operating Characteristic) e calcula a área sob a curva (**AUC**).
+Essa curva é útil para avaliar a capacidade de classificação binária do modelo, indicando o quão bem o modelo separa as classes.
 
 ## Requisitos
 
